@@ -1,17 +1,19 @@
 # 🎬 Catálogo de Filmes - PHP + OMDb API
 
-Este projeto é um **mini catálogo de filmes** desenvolvido em **PHP**, que consome a **OMDb API** para buscar informações de filmes e exibir em uma interface web com **HTML + CSS**.
+Este projeto é um **mini catálogo de filmes** desenvolvido em **PHP + JavaScript (AJAX)**, que consome a **OMDb API** para buscar informações de filmes e exibir em uma interface web com **HTML**.
 O usuário pode pesquisar pelo nome de um filme e visualizar pôster, título e ano de lançamento em cards estilizados.
 
 ---
 
 ## 🚀 Funcionalidades
 
-- Campo de busca para pesquisar filmes.
-- Consumo da **OMDb API** usando PHP.
-- Exibição dos filmes em formato de **cards responsivos** (título, ano, pôster).
-- Tratamento de filmes sem pôster disponível (imagem padrão).
-- Mensagem de aviso caso nenhum filme seja encontrado.
+🔎 Busca de filmes por nome.
+⚡ Atualização dinâmica dos resultados via AJAX (sem reload da página).
+📄 Paginação para navegar entre múltiplas páginas de resultados.
+🎭 Exibição de informações principais **cards responsivos** (poster, título, ano).
+📝 Estrutura pronta para exibir mais detalhes (atores, enredo, nota IMDb).
+🛠 Consumo da **OMDb API** usando PHP.
+📨 Mensagem de aviso caso nenhum filme seja encontrado.
 
 ---
 
@@ -24,10 +26,12 @@ _(Substitua por um print real do seu projeto)_
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **PHP** (para consumo da API e exibição dos dados)
+- **PHP** → Backend responsável por consumir a API.
 - **HTML5** (estrutura do site)
-- **CSS3** (estilização, layout em grid)
 - **OMDb API** (fonte dos dados de filmes)
+- **Bootstrap** (visual mais bonito e responsivo)
+- **Página de detalhes** (ator, enredo, diretor, nota IMDb)
+- **JavaScript (AJAX)** → Atualização dinâmica da lista de filmes.
 
 ---
 
@@ -67,15 +71,6 @@ _(Substitua por um print real do seu projeto)_
 
 ---
 
-## 🎨 Melhorias Futuras
-
-- Exibir detalhes completos do filme (atores, enredo, nota IMDb).
-- Implementar paginação para mais resultados.
-- Usar **Bootstrap** ou **TailwindCSS** para melhorar o design.
-- Adicionar busca dinâmica via **AJAX** (sem recarregar a página).
-
----
-
 ## 📜 Licença
 
 Este projeto está sob a licença MIT.
@@ -83,4 +78,6 @@ Sinta-se livre para usar, modificar e compartilhar!
 
 ---
 
-💡 Desenvolvido com PHP e criatividade 🚀
+👨‍💻 Autor
+
+Desenvolvido por Igor Triveloni 🚀
