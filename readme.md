@@ -35,7 +35,7 @@ O usuário pode pesquisar pelo nome de um filme e visualizar pôster, título e 
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/igortriveloni86/php_api_filmes.git
+   git clone https://github.com/igortriveloni86/PHP_API_FILMES.git
    ```
 
 2. Acesse a pasta do projeto:
