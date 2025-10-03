@@ -7,13 +7,13 @@ O usuário pode pesquisar pelo nome de um filme e visualizar pôster, título e 
 
 ## 🚀 Funcionalidades
 
-🔎 Busca de filmes por nome.
-⚡ Atualização dinâmica dos resultados via AJAX (sem reload da página).
-📄 Paginação para navegar entre múltiplas páginas de resultados.
-🎭 Exibição de informações principais **cards responsivos** (poster, título, ano).
-📝 Estrutura pronta para exibir mais detalhes (atores, enredo, nota IMDb).
-🛠 Consumo da **OMDb API** usando PHP.
-📨 Mensagem de aviso caso nenhum filme seja encontrado.
+- 🔎 Busca de filmes por nome.
+- ⚡ Atualização dinâmica dos resultados via AJAX (sem reload da página).
+- 📄 Paginação para navegar entre múltiplas páginas de resultados.
+- 🎭 Exibição de informações principais **cards responsivos** (poster, título, ano).
+- 📝 Estrutura pronta para exibir mais detalhes (atores, enredo, nota IMDb).
+- 🛠 Consumo da **OMDb API** usando PHP.
+- 📨 Mensagem de aviso caso nenhum filme seja encontrado.
 
 ---
 
