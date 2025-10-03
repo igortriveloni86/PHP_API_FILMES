@@ -18,7 +18,6 @@ O usuário pode pesquisar pelo nome de um filme e visualizar pôster, título e 
 ## 📸 Demonstração
 
 ![Preview do projeto](./img/home.png)
-_(Substitua por um print real do seu projeto)_
 
 ---
 
