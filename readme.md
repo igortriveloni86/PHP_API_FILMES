@@ -20,7 +20,6 @@ O usuário pode pesquisar pelo nome de um filme e visualizar pôster, título e 
 ## 📸 Demonstração
 
 ![Preview do projeto](./img/home.png)
-_(Substitua por um print real do seu projeto)_
 
 ---
 
@@ -40,13 +39,13 @@ _(Substitua por um print real do seu projeto)_
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/igortriveloni86/php_api_filmes.git
+   git clone https://github.com/igortriveloni86/PHP_API_FILMES.git
    ```
 
 2. Acesse a pasta do projeto:
 
    ```bash
-   cd catalogo-filmes-php
+   cd PHP_API_FILMES
    ```
 
 3. Substitua a sua chave da OMDb no código:
