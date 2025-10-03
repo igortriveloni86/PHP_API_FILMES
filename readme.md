@@ -41,7 +41,7 @@ O usuário pode pesquisar pelo nome de um filme e visualizar pôster, título e 
 2. Acesse a pasta do projeto:
 
    ```bash
-   cd catalogo-filmes-php
+   cd PHP_API_FILMES
    ```
 
 3. Substitua a sua chave da OMDb no código:
